@@ -13,7 +13,7 @@
   * [Tipo de fonte](#tipo-de-fonte)
 
 # Apresentação
-Este projeto foi criado para concluir o módulo II do Bootcamp TQI Fullsatack developer, o objetivo do projeto era criar uma página que servirá de portfólio. 
+Este projeto foi criado para concluir o módulo II do Bootcamp TQI Fullsatack developer, o objetivo do projeto era criar uma página que servirá de portfólio. O modelo final pode ser acesso em <a href="https://queeniebloom.github.io/Exemplo_Portfolio/">Projeto Final - Portfólio</a>
 
 # Techs: 
 - HTML e CSS
