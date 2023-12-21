@@ -1,8 +1,8 @@
 <br />
 <p align="center">
-    <img src="https://github.com/QueenieBloom/Exemplo_Portfolio/blob/main/ezgif.com-gif-maker%20(1).gif" alt="Logo" width="800">
+    <img src="https://github.com/QueenieBloom/Exemplo_Portfolio/blob/main/assets/src/gifs/ezgif.com-gif-maker%20(1).gif" alt="Logo" width="800">
 
-  <h3 align="center">Exemplo de Portfolio by <a href="https://www.linkedin.com/in/larissa-dias-0740ba219/">Larissa Dias</a></h3>
+  <h3 align="center">Exemplo de Portfolio by <a href="https://www.linkedin.com/in/larissa-moraes-dias-0740ba219/">Larissa Dias</a></h3>
 
 
 ## Índice
