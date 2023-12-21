@@ -218,7 +218,7 @@ a:hover {
     height: 300px;
     width: 400px;
     margin: 3rem 0 0 0;
-    background-image: url('wallpaper_5.jpg');
+    background-image: url('./assets/src/images/wallpaper_5.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
